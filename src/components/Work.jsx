@@ -35,7 +35,7 @@ const Work = () => {
                         <Card.Text>
                         processingで作った作品です。スノースマイルという曲をイメージして作りました。
                         </Card.Text>
-                        <Button variant="outline-primary">Click!</Button>
+                        <Button href="https://www.openprocessing.org/sketch/644450" variant="outline-primary">Click!</Button>
                     </Card.Body>
             </Card>
             </Col>
